@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('expresss');
 const routes = require('./routes');
 // import sequelize connection
 
