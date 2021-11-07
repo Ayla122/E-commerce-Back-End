@@ -67,7 +67,7 @@ Enter PW when promted
 `npm start`
 
 ## Contributing
-:octocat: [Ayla Moss](https://github.com/ayla122)
+[Ayla Moss](https://github.com/ayla122)
 
 ## Questions
 Contact me with any questions: [email](mailto:ayladd122@gmail.com) , [GitHub](https://github.com/ayla122)<br />

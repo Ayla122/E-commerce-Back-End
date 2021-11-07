@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayla122/E-commerce-Back-End.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayla122/E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/Ayla122/E-commerce-Back-End#readme"
+}
